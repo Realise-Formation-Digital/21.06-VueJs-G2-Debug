@@ -5,5 +5,5 @@ import 'plugins/bootstrapVue'
 Vue.config.productionTip = false
 
 new Vue({
-  render: h => h(App),
+  render: h => h(),
 }).$mount('#app')
